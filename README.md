@@ -31,6 +31,6 @@
 |오디세이세미나1|진로 설계, 학교 소개, 면담|
 
 
-github address: [][github]
+github address: [ehdgolgw][github]
 
-[github]:http://github.com/
+[github]:http://github.com/ehdgolgw
