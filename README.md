@@ -1,9 +1,9 @@
 # 한림대학교 소프트웨어융합대학
 ---
 <img src=https://github.com/ehdgolgw/Resume/blob/main/KakaoTalk_20220609_210658376.jpg height=500 widht=350>
-이름 : 이지원
-나이 : 20
-email : ehdgolgw@gamil.com
+이름 : 이지원   
+나이 : 20   
+email : ehdgolgw@gamil.com   
 
 ---
 
@@ -39,6 +39,7 @@ github를 사용하여 만들어 본 것
 * 비행기 게임
 
 ---
+
 계획
 
 * 토익 700점 이상 받기
