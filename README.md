@@ -1,7 +1,9 @@
 # 한림대학교 소프트웨어융합대학
 ---
 <img src=https://github.com/ehdgolgw/Resume/blob/main/KakaoTalk_20220609_210658376.jpg height=500 widht=350>
-이지원
+이름 : 이지원
+나이 : 20
+email : ehdgolgw@gamil.com
 
 ---
 
@@ -18,11 +20,6 @@
 2. Python
 
 ---
-github를 사용하여 만들어 본 것
-* 그림판
-* 비행기 게임
-
----
 
 2022년도 1학년 1학기 수강 과목   
 |과목|내용|
@@ -35,7 +32,21 @@ github를 사용하여 만들어 본 것
 |인공지능영어-S|기초 영어|
 |오디세이세미나1|진로 설계, 학교 소개, 면담|
 
+---
+github를 사용하여 만들어 본 것
+* 그림판
+* 비행기 게임
 
+---
+계획
+
+토익 700점 이상 취득하기
+한국사능력검정시험 2급 이상 취득하기
+내년에 선택할 전공 미리 정하고 공부하기
+
+---
+
+동아리
 github address: [ehdgolgw][github]
 
 [github]:http://github.com/ehdgolgw
